@@ -1,5 +1,5 @@
 # Galaxy-Ball (Arkanoid Game)
-##term project
+#term project
 
 <img width="387" alt="menuScreen" src="https://user-images.githubusercontent.com/64533036/142493689-9a5368ab-af67-4c56-9b50-01067a69ce0a.png">
 
